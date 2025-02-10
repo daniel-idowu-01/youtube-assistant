@@ -1,0 +1,5 @@
+1. Virtual environment-
+    = Create virtaul environment - python -m venv .venv
+    = Activate virtual environment - .\.venv\Scripts\activate
+
+2. Create main.py file
